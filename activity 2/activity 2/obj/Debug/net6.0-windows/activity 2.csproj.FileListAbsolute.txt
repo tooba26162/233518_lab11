@@ -1,0 +1,21 @@
+C:\Users\233518\source\repos\activity 2\activity 2\bin\Debug\net6.0-windows\activity 2.exe
+C:\Users\233518\source\repos\activity 2\activity 2\bin\Debug\net6.0-windows\activity 2.deps.json
+C:\Users\233518\source\repos\activity 2\activity 2\bin\Debug\net6.0-windows\activity 2.runtimeconfig.json
+C:\Users\233518\source\repos\activity 2\activity 2\bin\Debug\net6.0-windows\activity 2.dll
+C:\Users\233518\source\repos\activity 2\activity 2\bin\Debug\net6.0-windows\activity 2.pdb
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\activity 2.csproj.AssemblyReference.cache
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\activity 2_MarkupCompile.cache
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\activity 2_MarkupCompile.lref
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\activity 2.g.resources
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\activity 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\activity 2.AssemblyInfoInputs.cache
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\activity 2.AssemblyInfo.cs
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\activity 2.csproj.CoreCompileInputs.cache
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\activity 2.dll
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\refint\activity 2.dll
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\activity 2.pdb
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\activity 2.genruntimeconfig.cache
+C:\Users\233518\source\repos\activity 2\activity 2\obj\Debug\net6.0-windows\ref\activity 2.dll
